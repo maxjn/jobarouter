@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Technologies
 
-- HTML,CSS
+- JSX,CSS
 - ES6
 - React
 - **react-router-dom** package for routing
