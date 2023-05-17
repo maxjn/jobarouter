@@ -24,7 +24,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Installation
 
-Install **Raja Router** with npm
+Install **DojaRouter** with npm
 
 ```shell
 npm install
